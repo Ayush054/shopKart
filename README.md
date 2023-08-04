@@ -8,8 +8,9 @@ A ShopKart Website made with React.js Framework.
 - Fully Responsive
 
 
-## Screenshots
+## Deployments
 
+https://ayush-shopkart.netlify.app/
 
 
 
@@ -18,7 +19,7 @@ A ShopKart Website made with React.js Framework.
 Clone the project
 
 ```bash
-  git clone https://github.com/Ayush054/shopkart
+  git clone https://github.com/Ayush054/shopKart
 ```
 
 Go to the project directory
@@ -44,7 +45,6 @@ Start the server
 ## Tech Stack
 
 * [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
 * [Bootstrap](https://getbootstrap.com/)
 * [Platzi Fake Store API](https://fakeapi.platzi.com/)
 
